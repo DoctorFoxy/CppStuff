@@ -1,6 +1,6 @@
 # Portfolio
 ----------------------------------------------------------------------------------------------------------
-This is my C++ portfolio, I just keep some of my projects in here that I make in C++
+This is my C++ portfolio, I just keep some of my projects in here that I make.
 ----------------------------------------------------------------------------------------------------------
 ---------
 Projects:
